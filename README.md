@@ -53,7 +53,7 @@ class FaizanUsmani:
 
 ## 📊 Live Stats
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faizanusmani20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanusmani20&theme=tokyonight&hide_border=true" width="49%" />
 </div>
@@ -67,25 +67,9 @@ class FaizanUsmani:
   <img src="https://github-profile-trophy.vercel.app/?username=faizanusmani20&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"> -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"> 
 
-<div align="center">
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=faizanusmani20&theme=tokyonight&hide_border=true" width="60%" />
-
-  <br/>
-
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faizanusmani20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
-
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanusmani20&theme=tokyo-night&hide_border=true&area=true" width="80%" />
-
-  <br/>
-
-  <img src="https://trophy.benkou.dev/?username=faizanusmani20&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="90%" />
-
-</div>
 
 ## 🐍 Contribution Snake
 
