@@ -77,7 +77,7 @@ class FaizanUsmani:
   <img src="https://raw.githubusercontent.com/faizanusmani20/faizanusmani20/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-> ⚙️ This animation needs a one-time setup — see **`SNAKE_SETUP.md`** for the GitHub Action that generates it automatically.
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
