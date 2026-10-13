@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 👨‍💻 About Me 
- <img src="assets/hacker.gif" width="70" align="left" alt="Hacker" />
+
 ```python
 class FaizanUsmani:
     def __init__(self):
