@@ -16,6 +16,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 👨‍💻 About Me 
+<div align="center">
+<img src="assets/hacker.gif" width="70" align="left" alt="Hacker" />
+
 
 ```python
 class FaizanUsmani:
