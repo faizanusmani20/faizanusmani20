@@ -19,7 +19,7 @@
   <img src="assets/hacker.gif" width="70" align="left" alt="Hacker" />
 </div>
   
-## 👨‍💻 About Me 
+##  About Me 
 
 
 
