@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=EC407A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Turning+Data+Into+Decisions+%F0%9F%93%88;Training+Neural+Nets+While+You+Sleep+%F0%9F%A4%96;Open+Source+%3D+Open+Mind+%F0%9F%8C%90" alt="Typing SVG" />
 
 <p>
-  <a href="https://faizanusmani20.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://faizanusmani-portfolio.vercel.app//" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/faizan-usmani-354624397" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <!-- <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
   <img src="https://komarev.com/ghpvc/?username=faizanusmani20&style=for-the-badge&color=ec407a&label=PROFILE+VIEWS" />
@@ -89,6 +89,6 @@ class FaizanUsmani:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizanusm/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://faizanusmani20.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://faizanusmani-portfolio.vercel.app/)
 
 <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn" width="100%"/> </div>
