@@ -72,7 +72,7 @@ class FaizanUsmani:
 
 
 ## 🐍 Contribution Snake
-
+ 
 <div align="center">
   <img src="https://raw.githubusercontent.com/faizanusmani20/faizanusmani20/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
@@ -82,6 +82,10 @@ class FaizanUsmani:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🌐 Let's Connect
+
+<div align="center">
+  <img src="assets/hello.gif" width="100" align="left" alt="Pikachu waving" />
+  <h3>🌐 Let's Connect</h3>
 
 <div align="center">
 
