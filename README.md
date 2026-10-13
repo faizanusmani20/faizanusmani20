@@ -84,7 +84,7 @@ class FaizanUsmani:
 ## 🌐 Let's Connect
 
 <div align="center">
-<img src="assets/hello.gif" width="60" align="left" alt="Pikachu waving" />
+<img src="assets/hello.gif" width="70" align="left" alt="Pikachu waving" />
 
 <div align="center">
 
