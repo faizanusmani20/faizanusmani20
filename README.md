@@ -17,7 +17,8 @@
 
 <div align="center">
   <img src="assets/hacker.gif" width="70" align="left" alt="Hacker" />
-  </div>
+</div>
+  
 ## 👨‍💻 About Me 
 
 
