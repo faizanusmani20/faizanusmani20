@@ -89,6 +89,7 @@ class FaizanUsmani:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🌐 Let's Connect
+<img src="assets/hello.gif" width="70" align="left" alt="Pikachu waving" /> <em><b> ## 🌐 Let's Connect </em>
 
 <div align="center">
 <img src="assets/hello.gif" width="70" align="left" alt="Pikachu waving" />
