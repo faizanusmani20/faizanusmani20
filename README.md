@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=EC407A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Turning+Data+Into+Decisions+%F0%9F%93%88;Training+Neural+Nets+While+You+Sleep+%F0%9F%A4%96;Open+Source+%3D+Open+Mind+%F0%9F%8C%90" alt="Typing SVG" />
 
+
+
 <p>
   <a href="https://faizanusmani-portfolio.vercel.app//" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/faizan-usmani-354624397" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
