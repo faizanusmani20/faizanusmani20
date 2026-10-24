@@ -45,7 +45,7 @@ class FaizanUsmani:
 
 <div align="center">
 
-**Languages**  
+### Languages
 ![Languages](https://skillicons.dev/icons?i=python,javascript,c,java&theme=dark)
 
 **Libraries and frameworks**  
