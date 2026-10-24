@@ -48,33 +48,16 @@ class FaizanUsmani:
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=python,javascript,c,java&theme=dark)
 
-**Libraries and frameworks**  
+### Data Science & Machine Learning
 ![Libraries](https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark)
 
-**Tools and platforms**  
+### Tools & Development 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda&theme=dark)
 
 **Other tools:** Matplotlib, Jupyter Notebook, Numpy, Pandas
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"> -->
 </div>  
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript&theme=dark" alt="Python, C, Java, JavaScript" />
-
-### Data Science & Machine Learning
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow&theme=dark" alt="NumPy, Pandas, Scikit-learn, TensorFlow" />
-
-### Tools & Development
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,jupyter&theme=dark" alt="Git, GitHub, VS Code, Linux, Anaconda, Jupyter" />
-
-### Data Visualization
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-
-</div>
 
 ## 📊 Live Stats
 
