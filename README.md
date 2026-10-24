@@ -43,6 +43,9 @@ class FaizanUsmani:
 
 ## Tech Stack
 
+<div align="center">
+
+
 **Languages**  
 ![Languages](https://skillicons.dev/icons?i=python,javascript,c,java&theme=dark)
 
@@ -55,6 +58,7 @@ class FaizanUsmani:
 **Other tools:** Matplotlib, Jupyter Notebook, Numpy, Pandas
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</div>
 
 ## 📊 Live Stats
 
