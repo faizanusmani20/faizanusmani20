@@ -41,22 +41,18 @@ class FaizanUsmani:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## ⚡ Tech Arsenal
+## Tech Stack
 
-<div align="center">
+**Languages**  
+![Languages](https://skillicons.dev/icons?i=python,javascript,c,java&theme=dark)
 
-<img src="https://skillicons.dev/icons?i=python,javascript,c,java,numpy,pandas,git,github,vscode,linux,anaconda,tensorflow&theme=dark" />
+**Libraries and frameworks**  
+![Libraries](https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark)
 
-<br/><br/>
+**Tools and platforms**  
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda&theme=dark)
 
-![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=python&logoColor=3776AB)
-![NumPy](https://img.shields.io/badge/-NumPy-000?&style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&style=for-the-badge&logo=pandas&logoColor=150458)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&style=for-the-badge&logo=plotly&logoColor=11557C)
-<!-- ![scikit--learn](https://img.shields.io/badge/-scikit--learn-000?&style=for-the-badge&logo=scikitlearn&logoColor=F7931E) -->
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&style=for-the-badge&logo=jupyter&logoColor=F37626)
-
-</div>
+**Other tools:** Matplotlib, Jupyter Notebook, Numpy, Pandas
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
